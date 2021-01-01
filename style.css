@@ -1,0 +1,14 @@
+h1{
+  font-variant:small-caps;
+}
+body{
+  text-align:center;
+  background-image:linear-gradient(purple, cyan);
+}
+img{
+  height:300px;
+  
+}
+p{
+  font-family:"Redressed";
+}
